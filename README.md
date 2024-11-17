@@ -35,8 +35,6 @@ I'm Yao – A passionate software developer front-end solutions !
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaoHure&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoHure&layout=compact&theme=radical)
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=YaoHure&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaoHure&theme=radical)
 
 
 ## 🎨 Outside of Tech
