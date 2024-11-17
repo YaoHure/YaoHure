@@ -4,8 +4,6 @@ I'm Yao – A passionate software developer front-end solutions !
 > "The best way to predict the future is to create it." – Peter Drucker
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YaoHure&color=blue)
-
 ## 🌱 What I’m Working On
 - 🚀 Building an new personal website
 - 💡 Learning TypeScript and Next.js.
@@ -32,6 +30,14 @@ I'm Yao – A passionate software developer front-end solutions !
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaoHure&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaoHure&layout=compact&theme=radical)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=YaoHure&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YaoHure&theme=radical)
+
 
 ## 🎨 Outside of Tech
 - I love painting, hiking, and exploring new cuisines.
